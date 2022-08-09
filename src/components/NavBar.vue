@@ -13,8 +13,7 @@
             </v-list-item>
         </v-list>
     </v-navigation-drawer>
-</template>
-
+</template> 
 <script lang="ts">
     import { defineComponent } from 'vue';
     
